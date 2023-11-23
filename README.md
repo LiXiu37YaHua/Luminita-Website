@@ -25,10 +25,10 @@ Welcome to my portfolio website! It is created using HTML and CSS.
 
 &copy; 2023 Lumi Website. All rights reserved. Connect with me on [GitHub](https://github.com/LiXiu37YaHua) | [LinkedIn](https://www.linkedin.com/in/marissa-lanza-920a6029b/) | [Indeed](https://profile.indeed.com/resume) | [Handshake](https://snhu.joinhandshake.com/stu/users/35628665).
 
-
+<body>
 <style>
   body {
     background: url('images/light-blue-background.png') repeat; /* Path to your 1x1 pixel light blue image */
   }
 </style>
-
+</body>
