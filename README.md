@@ -1,30 +1,84 @@
-# Luminita-Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Lumie Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #add8e6; /* Light blue color code */
+        }
 
-My portfolio website I'm creating
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: blue; 
+        }
 
-[Visit My Portfolio Website](http://localhost:65104/index.html)
+        section {
+            margin-top: 20px;
+        }
 
-## About
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: blue;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
 
-Welcome to my portfolio website! It is created using HTML and CSS.
+    <header>
+        <h1>Welcome to My Lumi Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#links">Links</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<body style="background-color: #add8e6;">
+    <section id="home">
+        <h2>Home</h2>
+        <!-- Your home content goes here -->
+    </section>
 
-## Sections
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Lumi website created using HTML and CSS.</p>
+    </section>
 
-- **Home:** Your home content goes here.
-- **About Me:** Learn more about me.
-- **Contact:** Find my contact information.
-- **Links:** Connect with me on [LinkedIn](https://www.linkedin.com/in/marissa-lanza-920a6029b/), [GitHub](https://github.com/LiXiu37YaHua), [Handshake](https://snhu.joinhandshake.com/stu/users/35628665), and [Indeed](https://profile.indeed.com/resume).
+    <section id="contact">
+        <h2>Contact</h2>
+        <!-- Your contact content goes here -->
+    </section>
 
-## Contact
+    <section id="links">
+        <h2>Links</h2>
+        <div>
+            <a href="https://www.linkedin.com/in/marissa-lanza-920a6029b/" target="_blank">LinkedIn</a>
+            <a href="https://github.com/LiXiu37YaHua" target="_blank">GitHub</a>
+            <a href="https://snhu.joinhandshake.com/stu/users/35628665" target="_blank">Handshake</a>
+            <a href="https://profile.indeed.com/resume" target="_blank">Indeed</a>
+            <a href="https://www.pinterest.com/marissalanza79/" target="_blank">Pinterest</a>
+        </div>
+    </section>
 
-- **Name:** Marissa Lanza
-- **Email:** [Marissa.lanza@snhu.edu](mailto:Marissa.lanza@snhu.edu)
-- **Phone:** 978-227-2310
+    <footer>
+        <p>&copy; 2023 Lumi Website. All rights reserved.</p>
+    </footer>
 
-## Footer
+</body>
+</html>
 
-&copy; 2023 Lumi Website. All rights reserved. Connect with me on [GitHub](https://github.com/LiXiu37YaHua) | [LinkedIn](https://www.linkedin.com/in/marissa-lanza-920a6029b/) | [Indeed](https://profile.indeed.com/resume) | [Handshake](https://snhu.joinhandshake.com/stu/users/35628665).
 
 
