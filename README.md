@@ -3,7 +3,7 @@
 My portfolio website I'm creating
 
 [Visit My Portfolio Website](http://localhost:65104/index.html)
-
+<body style="background-color: #add8e6;">
 ## About
 
 Welcome to my portfolio website! It is created using HTML and CSS.
