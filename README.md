@@ -4,11 +4,11 @@ My portfolio website I'm creating
 
 [Visit My Portfolio Website](http://localhost:65104/index.html)
 
-<body style="background-color: #add8e6;">
-
 ## About
 
 Welcome to my portfolio website! It is created using HTML and CSS.
+
+<body style="background-color: #add8e6;">
 
 ## Sections
 
@@ -26,4 +26,5 @@ Welcome to my portfolio website! It is created using HTML and CSS.
 ## Footer
 
 &copy; 2023 Lumi Website. All rights reserved. Connect with me on [GitHub](https://github.com/LiXiu37YaHua) | [LinkedIn](https://www.linkedin.com/in/marissa-lanza-920a6029b/) | [Indeed](https://profile.indeed.com/resume) | [Handshake](https://snhu.joinhandshake.com/stu/users/35628665).
+
 
