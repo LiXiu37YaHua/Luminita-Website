@@ -1,8 +1,14 @@
 # Luminita-Website
 My portfolio website I'm creating
 [Visit My Portfolio Website](http://localhost:65104/index.html)
+# Luminita-Website
+
+My portfolio website I'm creating. Visit My Portfolio Website.
+
+```html
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,13 +18,13 @@ My portfolio website I'm creating
             font-family: Arial, sans-serif;
             margin: 20px;
             padding: 20px;
-            background-color: lightpink; 
+            background-color: lightpink;
         }
 
         header {
             text-align: center;
             padding: 10px;
-            background-color: blue; 
+            background-color: blue;
         }
 
         section {
@@ -35,6 +41,7 @@ My portfolio website I'm creating
         }
     </style>
 </head>
+
 <body>
 
     <header>
@@ -79,4 +86,6 @@ My portfolio website I'm creating
     </footer>
 
 </body>
+
 </html>
+
