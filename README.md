@@ -26,4 +26,4 @@ Welcome to my portfolio website! It is created using HTML and CSS.
 ## Footer
 
 &copy; 2023 Lumi Website. All rights reserved. Connect with me on [GitHub](https://github.com/LiXiu37YaHua) | [LinkedIn](https://www.linkedin.com/in/marissa-lanza-920a6029b/) | [Indeed](https://profile.indeed.com/resume) | [Handshake](https://snhu.joinhandshake.com/stu/users/35628665).
-</body>
+
